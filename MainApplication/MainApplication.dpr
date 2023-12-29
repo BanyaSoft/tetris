@@ -16,6 +16,9 @@ var
   basicInput: string[10];
 
 begin
+  writeln('The Board of Honor:');
+  writeln('1)Michael Andersen.');
+  writeln;
   writeln('Toggle FullScreen!!!');
   writeln('Press Enter to Run Application.');
   readln;
